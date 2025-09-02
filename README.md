@@ -1,68 +1,70 @@
-<!-- Profile Header -->
-<h1 align="center">
-  Hi there, I'm Akhilraj K P 👋
-</h1>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Akhilraj K P</h1>
+<h3 align="center">Software Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Passionate+Developer;Always+Learning+New+Technologies;Writing+Clean+%26+Efficient+Code" alt="Typing Animation" />
 </p>
 
 ---
 
-<!-- About Me -->
-### 🚀 About Me
-- 🌱 Currently learning **AI, Full Stack Development, and Cloud**  
-- 💻 Passionate about **Python, Java, and C++ projects**  
-- ⚡ Fun fact: I dip biscuits in tea with a timer 😅  
+### 👨‍💻 About Me  
+- 🌱 Currently learning **AI, Cloud, and Full Stack Development**  
+- 💻 Skilled in **Python, Java, C++, and Web Technologies**  
+- 🚀 Interested in **building scalable applications & solving real-world problems**  
+- ⚡ Fun fact: I once built a **Biscuit Dip Timer** ⏱️🍪  
 
 ---
 
-<!-- Languages and Tools -->
-### 🛠️ Languages & Tools I Use  
+### 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,html,css,git,mysql" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilcodez&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcodez&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilcodez&theme=react-dark" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,html,css,git,mysql,nodejs,react&theme=light" />
 </p>
 
 ---
 
-<!-- Trophies -->
-### 🏆 GitHub Trophies  
+### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilcodez&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilcodez&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcodez&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 ---
 
-<!-- Fun Section -->
-### 🎉 Fun Animations  
+### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">  
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300">  
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilcodez&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
 
-<!-- Footer -->
+### 📈 Contributions  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhilcodez/akhilcodez/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akhilcodez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=akhilcodez&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
